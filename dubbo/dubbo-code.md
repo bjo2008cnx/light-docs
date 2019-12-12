@@ -1,0 +1,1 @@
+dubbo 服务自助注册类：DubboServiceRegistrationAutoConfiguration
